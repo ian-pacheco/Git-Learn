@@ -8,6 +8,7 @@ namespace teste {
             double largura, comprimento, PrecoMetro, area, preco;
 
             Console.WriteLine("Olá, mundo!");
+            Console.WriteLine("BOm dia");
             largura = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             comprimento = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             PrecoMetro = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
